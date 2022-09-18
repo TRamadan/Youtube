@@ -1,0 +1,38 @@
+.img-holder {
+    width: 18vh;
+    height: 6vh;
+}
+
+.card-header {
+    background: transparent;
+}
+
+.card-img-holder {
+    height: 250px;
+}
+
+.review-stat {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+
+.small-ratings i {
+    color: #aa7e7e6b;
+}
+
+
+.small-ratings {
+    margin-left: 2%;
+}
+
+.rating-color {
+    color: #ff1919 !important;
+}
+
+.statical-data {
+
+    margin-left: 15px;
+    font-weight: bold;
+
+}

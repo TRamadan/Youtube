@@ -1,0 +1,9 @@
+.img-holder {
+    width: 18vh;
+    height: 6vh;
+}
+
+td {
+    vertical-align: middle;
+    font-weight: bold;
+}
